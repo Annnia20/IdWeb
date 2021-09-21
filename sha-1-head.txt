@@ -1,0 +1,10 @@
+Python :  8999c540413fa38cbda45f51e36b7e90d7bc3f96
+Ruby :  508af707d63ee30e227579dda94d23b8e9a49bed
+Kotlin : 8fb3f1b6eb19eddcef7b75245c4bbaecc2792fc9 
+C++ : ffacb7c4c98093b33a8acac8f226f0c26233186d 
+C# :  fa8e6e61bc308b8bcf9b0ddf425cc5e469283c6b
+JavaScript :  3c3441eff92d98cb816c4bff87bd60c4b3d79790
+Java : cb7fcb0ee5700220a7a47ebba563da86b1a364ca
+Php : cba08c1469be7aab4e6e5ff10c99ca7319912dc8 
+C : 124c3668b4cf193bf3cd0f575e1f178c5e41ae68
+Go :  b1c997fadce3cfe7410635f7cf22917fc9c77682
